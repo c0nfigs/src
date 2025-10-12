@@ -1,3 +1,6 @@
+-- By : Tekscripts 
+-- auth : Kauam
+
 -- Carrega a lib
 local Tekscripts = loadstring(game:HttpGet("https://raw.githubusercontent.com/c0nfigs/LibUix/refs/heads/main/init.lua"))()
 
