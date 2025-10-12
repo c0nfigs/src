@@ -1,13 +1,16 @@
--- By : Tekscripts 
--- auth : Kauam
-
+-- ═══════════════════════════════════════════════════════════
+--  TekScripts - Painel para Noobs Devem Morrer
+--  Desenvolvido por: KAUAM
+--  Equipe: TekScripts
+--  TikTok: @TekScriptss
+-- ═══════════════════════════════════════════════════════════
 -- Carrega a lib
 local Tekscripts = loadstring(game:HttpGet("https://raw.githubusercontent.com/c0nfigs/LibUix/refs/heads/main/init.lua"))()
 
 -- Interface principal
 local gui = Tekscripts.new({
-	Name = "TekScripts | The Maze",
-	FloatText = "Abrir Interface"
+	Name = "TekScripts | Noobs must die",
+	FloatText = "Abrir"
 })
 
 -- Cria a aba principal
